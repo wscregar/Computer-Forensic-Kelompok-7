@@ -25,6 +25,6 @@ Seorang staf dari departemen keuangan bernama `staff_akuntan` melaporkan adanya 
 1. Menemukan file `laporan_anggaran_oktober.xlsx` yang telah dihapus.
 2. Menemukan file tersembunyi `log_transaksi.csv` yang berisi catatan transaksi asli.
 3. Menemukan jejak perubahan pada `laporan_anggaran_final.xlsx` (identifikasi nilai anggaran yang di-*mark up*, serta manipulasi vendor A menjadi vendor B).
-4. Mengidentifikasi *username* yang melakukan perubahan tersebut, waktu kejadian (*timestamp* file), dan bukti pendukung lainnya.
+4. Mengidentifikasi `username` yang melakukan perubahan tersebut, waktu kejadian (*timestamp* file), dan bukti pendukung lainnya.
 
 ---
